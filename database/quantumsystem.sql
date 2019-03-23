@@ -136,7 +136,6 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `email`, `nome`, `password`, `telefone`, `celular`, `id_group`, `id_residencia`) VALUES
 (1, 'admin@empresa123.com.br', 'Admin Principal', '202cb962ac59075b964b07152d234b70', '', '', 1, 14),
 (16, 'teste@teste.com', 'Teste', '698dc19d489c4e4db73e28a713eab07b', '123456', '123456', 9, 16),
-(17, 'tiagoseg@live.com', 'Tiago Almeida', '8401244d2830405d1909de03bb6f5a52', '17 3253-3878', '17 99220-4040', 1, 10);
 
 -- --------------------------------------------------------
 
